@@ -9,7 +9,7 @@
   <display-name>Archetype Created Web Application</display-name>
 <!--  <servlet>-->
 <!--    <servlet-name>hiServlet</servlet-name>-->
-<!--    <servlet-class>my.tomcat.app.HelloServlet</servlet-class>-->
+<!--    <servlet-class>HelloServlet</servlet-class>-->
 <!--  </servlet>-->
 
 <!--  <servlet-mapping>-->
