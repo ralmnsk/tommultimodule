@@ -4,10 +4,10 @@
 TOP SECRET 2 (This page was put in WEB-INF/jsp)
 </br>
 </br>
-<a href="/tom.app/topsecret">Secret information</a>
+<a href="/tomapp/topsecret">Secret information</a>
 </br>
-<a href="/tom.app/inform">Information</a>
+<a href="/tomapp/inform">Information</a>
 </br>
-<a href="/tom.app/logout">Logout</a>
+<a href="/tomapp/logout">Logout</a>
 <hr/>
 </body></html>

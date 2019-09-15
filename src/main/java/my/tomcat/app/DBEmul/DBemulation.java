@@ -24,7 +24,7 @@ public class DBemulation {
         FileInputStream fis=null;
         try {
             Properties properties=new Properties();
-            fis=new FileInputStream("src/main/resources/login.properties");
+            fis=new FileInputStream("tomapp/src/main/resources/login.properties");
             properties.load(fis);
             String value=properties.getProperty(prop);
             return value;
